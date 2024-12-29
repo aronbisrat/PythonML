@@ -13,3 +13,7 @@ A survey was conducted in two types of colonies...
 
 ### Problem Statement:
 Determine if the prevalence of tuberculosis (TB) in the slum area is significantly higher than in the normal area.
+---
+
+### Source:
+This question is taken from the book **"Programmed Statistics" by B. Agarwal, 2nd Edition**.
